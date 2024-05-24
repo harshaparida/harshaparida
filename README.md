@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi there! 👋 I'm Harshabardhana Parida, a passionate B.Tech student specializing in Computer Science and Engineering.<br>🤖 Machine Learning Algorithms, 🧠 Deep Learning, 👁️ Computer Vision, 🗣️ Natural Language Processing (NLP), and 🌐 Artificial Intelligence (AI).<br>Exciting projects in machine learning, deep learning, and AI applications.<br>Advanced techniques in deep learning and cutting-edge AI research.<br>The latest advancements in machine learning, deep learning frameworks, and AI models.<br>Anything related to AI, ML, DL, computer vision, or NLP!<br>Did you know that the first computer virus was created as a harmless experiment? 🧪 My journey in tech started with simple curiosity, and now, it's a thrilling adventure every day! 🚀<br>
+🌟 Hi there! 👋 I'm Harshabardhana Parida, a passionate B.Tech student specializing in Computer Science and Engineering.<br>
+
+🔭 I’m currently working on exciting projects in machine learning, deep learning, and AI applications.
+
+🎭 I’m looking to collaborate on advanced techniques in deep learning and cutting-edge AI research.
+
+🤝 I’m looking for help with the latest advancements in machine learning, deep learning frameworks, and AI models.
+
+🌱 I’m currently learning anything related to AI, ML, DL, computer vision, or NLP!
+
+💬 Ask me about AI, ML, DL, computer vision, or NLP!
+
+⚡ Fun fact: Did you know that the first computer virus was created as a harmless experiment? 🧪 My journey in tech started with simple curiosity, and now, it's a thrilling adventure every day! 🚀<br>
 
 
 ## 🌐 Socials:
