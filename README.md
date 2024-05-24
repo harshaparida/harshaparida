@@ -11,7 +11,8 @@
 
 💬 Ask me about AI, ML, DL, computer vision, or NLP!
 
-⚡ Fun fact: Did you know that the first computer virus was created as a harmless experiment? 🧪 My journey in tech started with simple curiosity, and now, it's a thrilling adventure every day! 🚀<br>
+⚡ Fun fact: Did you know that the first computer virus was created as a harmless experiment? 
+🧪 My journey in tech started with simple curiosity, and now, it's a thrilling adventure every day! 🚀<br>
 
 
 ## 🌐 Socials:
