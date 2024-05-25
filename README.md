@@ -31,7 +31,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Random Dev Meme -->
+<!-- <img src='https://memer-new.vercel.app/' style="height: 400px;"/>  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
