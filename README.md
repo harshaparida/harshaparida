@@ -35,5 +35,5 @@
 <!-- <img src='https://memer-new.vercel.app/' style="height: 400px;"/>  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=ffffff&color=037bfc&line=037bfc&point=03dffc&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshaparida&bg_color=ffffff&color=037bfc&line=037bfc&point=03dffc&area=true&hide_border=true)
 
