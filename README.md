@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 🌟 Passionate B.Tech student specializing in Computer Science and Engineering.<br>
-![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 🔭 I’m currently working on exciting projects in machine learning, deep learning, and AI applications.
 
