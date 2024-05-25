@@ -1,4 +1,3 @@
-![Animated Greeting](https://assets10.lottiefiles.com/packages/lf20_ydo1amjm.json)
 # 💫 About Me:
 🌟 Hi there! 👋 I'm Harshabardhana Parida, a passionate B.Tech student specializing in Computer Science and Engineering.<br>
 
