@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Your+Name;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🌟 Hi there! 👋 I'm Harshabardhana Parida, a passionate B.Tech student specializing in Computer Science and Engineering.<br>
 
