@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harshabardhana+Parida;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harsha;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌟 Passionate B.Tech student specializing in Computer Science and Engineering.<br>
