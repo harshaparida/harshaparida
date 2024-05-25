@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harshabardhana+Parida;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg)
 
-
 # 💫 About Me:
 🌟 Passionate B.Tech student specializing in Computer Science and Engineering.<br>
+![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 🔭 I’m currently working on exciting projects in machine learning, deep learning, and AI applications.
 
