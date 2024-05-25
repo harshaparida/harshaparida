@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌟 Hi there! 👋 I'm Harshabardhana Parida, a passionate B.Tech student specializing in Computer Science and Engineering.<br>
+🌟 Passionate B.Tech student specializing in Computer Science and Engineering.<br>
 
 🔭 I’m currently working on exciting projects in machine learning, deep learning, and AI applications.
 
