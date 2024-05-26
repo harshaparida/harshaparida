@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harsha;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harsha;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/harshabard76067)
 
 # 💫 About Me:
 🌟 Passionate B.Tech student specializing in Computer Science and Engineering.<br>
