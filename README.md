@@ -40,5 +40,5 @@
 <!-- <img src='https://memer-new.vercel.app/' style="height: 400px;"/>  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://raw.githubusercontent.com/harshaparida/harshaparida/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/harshaparida/harshaparida/output/github-contribution-grid-snake-dark.svg) -->
 
