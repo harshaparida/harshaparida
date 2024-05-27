@@ -16,7 +16,7 @@
 ⚡ Fun fact: Did you know that the first computer virus was created as a harmless experiment?<br> 
 🧪 My journey in tech started with simple curiosity, and now, it's a thrilling adventure every day! 🚀<br>
 
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=harshaparida&color=blue&style=flat-square) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=harshaparida&color=blue&style=flat-square) 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3CcgFaEt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__harshaa04/?igsh=b2MydWo3dnBrcHlx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshaparida) [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@harshabardhanaparida) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/harshabard76067) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25186745/harshabardhana-parida)
