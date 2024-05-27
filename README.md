@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harsha;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg) 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&lines=Hello,+I'm+Harsha;Welcome+to+my+GitHub+profile!;Enjoy+exploring+my+projects!)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Harsha!;Welcome+to+my+GitHub+profile!;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌟 Passionate B.Tech student specializing in Computer Science and Engineering.<br>
@@ -16,7 +17,7 @@
 ⚡ Fun fact: Did you know that the first computer virus was created as a harmless experiment?<br> 
 🧪 My journey in tech started with simple curiosity, and now, it's a thrilling adventure every day! 🚀<br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=harshaparida&color=blue&style=flat-square)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=harshaparida&color=blue&style=flat-square) -->
 <img src="https://profile-counter.glitch.me/harshaparida/count.svg">
 
 ## 🌐 Socials:
