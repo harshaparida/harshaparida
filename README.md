@@ -10,7 +10,7 @@
 <a href="https://dev.to/harshaparida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshaparida" height="30" width="40" /></a>
 <a href="https://twitter.com/harshabard76067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshabard76067" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshaparida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshaparida" height="30" width="40" /></a>
-<a href="https://instagram.com/@__harshaa04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__harshaa04" height="30" width="40" /></a>
+<a href="https://instagram.com/__harshaa04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__harshaa04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
